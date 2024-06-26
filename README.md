@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Asad Ahmed Sheikh
 =========================================================================================================================================
 
-Frontend Developer and Junior Designer
+Game Developer and Junior UI/UX Designer
 --------------------------------------
 
 Hi, I am a BSSE Software Engineering Graduate Working as a Software Engineer in Darul Solutions
@@ -9,7 +9,7 @@ Hi, I am a BSSE Software Engineering Graduate Working as a Software Engineer in 
 * 🌍  I'm based in Karachi
 * 🖥️  See my portfolio at [MyPortfolio](http://portfolio-asadahmedsheikh.web.app/)
 * 🚀  I'm currently working on [Darul Solutions](http://www.darulsolutions.com/)
-* 🧠  I'm learning WebGL PlayCanvas Game Engine
+* 🧠  I'm learning WebGL PlayCanvas Game Engine, Unreal Engine
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
